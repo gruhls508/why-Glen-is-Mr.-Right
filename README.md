@@ -18,7 +18,7 @@ why-Glen-is-Mr.-Right
               <a href="http://www.hbo.com/band-of-brothers">Remember this show? If not, there are only ten episodes. You too, may have a special place in your heart for it afterward.</a>
               <br>
               <br>
-              <a href="http://www.neworleansonline.com/">If you ever get a chance to go here even just once, you simply must.</a>
+              <a href="http://www.neworleansonline.com/">If you ever get a chance to go here, even just once...you simply must.</a>
               <br>
               <br>
               <a href="http://www.soundbitesrestaurant.com/">If you haven't been here, now is the time to go. Breakfast is extra special.</a>
