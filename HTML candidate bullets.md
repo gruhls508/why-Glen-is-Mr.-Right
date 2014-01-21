@@ -5,7 +5,7 @@ why-Glen-is-Mr.-Right
     <br>
     <img src="http://southwestern.edu/su_blogs/megaphone/files/2009/02/swimmingcolor.png" alt="guy swimming">
       <h2>The Qualifications of Glen Ruhl</h2>
-        <h4><i>Why I am a solid candidate for Launch Academy’s Web Developer program…</i></h4>
+        <h4><i>Why I am a solid candidate for the Mobile Makers iOS Bootcamp program…</i></h4>
           <b>Intellectual capability</b> – I maintained an academic scholarship through 4 years of undergrad at Franklin & Marshall, a Top 50 Liberal Arts college. 
           <br> 
           <b>Diverse abilities</b> – My degree is in Creative Writing, though I have 2+ years of experience in CAD and Workplace Safety. I also now have almost a year’s experience in Special Education and Human Services. 
